@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SOURAVROSHAN
 - 👀 I’m interested in HR
 - 🌱 I’m currently learning BBA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me souravroshan6@gmail.com
 
 <!---
